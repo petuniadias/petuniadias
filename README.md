@@ -4,6 +4,8 @@
 
 <img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petuniadias&layout=compact&theme=dracula"/>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=petuniadias)](https://git.io/streak-stats)
+
 <img alt="hamtaro gif" style="
     width: 20%;
     height: 20%;
