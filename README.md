@@ -4,7 +4,7 @@
 
 <img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petuniadias&layout=compact&theme=dracula"/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=petuniadias)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=petuniadias&theme=default&hide_border=true" alt="petuniadias's GitHub Stats" />
 
 <img alt="hamtaro gif" style="
     width: 20%;
